@@ -1,2 +1,2 @@
-#MyClass Landing Page
+# MyClass Landing Page
 
